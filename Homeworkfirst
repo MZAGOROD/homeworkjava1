@@ -1,0 +1,58 @@
+public class Homeworkfirst {
+    public static void main(String[] args) {
+
+        char x = 47;
+        char y = 92;
+        char z = 39;
+        char c = 34;
+
+        System.out.print(x);
+        System.out.print(z);
+        System.out.print(c);
+        System.out.print("Работу выполнил Максим Загородний");
+        System.out.print(y);
+        System.out.print(c);
+        System.out.println(z);
+
+        int i = 5;
+        System.out.println(i+i);
+
+        boolean myboolean1 = true;
+        boolean myboolean2 = false;
+
+        myboolean1 = 3+3>7;
+        System.out.println(myboolean1);
+
+        byte b = 8;
+        short s = -100;
+        long l = 9999;
+        double d = 55.5;
+        float f = 18.5F;
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(l);
+        System.out.println(d);
+        System.out.println(f);
+
+        System.out.println("\n");
+
+        b= 15;
+        s= 105;
+        i = -234;
+        l = 1873;
+        d= 20.4;
+        f= 23.5F;
+        myboolean1= true;
+        c= 32;
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(i);
+        System.out.println(l);
+        System.out.println(d);
+        System.out.println(f);
+        System.out.println(myboolean1);
+        System.out.println(c);
+        
+    }
+
+}
